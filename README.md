@@ -6,4 +6,7 @@ A simple calculator build using python.
 - subtraction
 - multiplication
 - division
-- floor division (it divides by removing the decimal) 
+- floor division (*it divides by removing the decimal*) 
+
+## Author 
+Turvi Gupta
